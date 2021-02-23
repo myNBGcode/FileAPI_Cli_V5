@@ -76,6 +76,34 @@
 				"proxyUrl": "https://apis.nbg.gr/sandbox/file/oauth2/v4"
 				"ethnoProxyUrl": "https://apis.nbg.gr/sandbox/file/oauth2/v4"
 				"tppProxyUrl": "https://apis.nbg.gr/sandbox/file/oauth2/v4"
+				
+	2.4 Email notifications settings:
+	
+			Get notified if your requests were successful or not via email notifications.
+			You can select the commands for which you want to be informed and declare multiple
+			email accounts too.
+			To do so you need to:
+				set the NotificationsEnabled flag to true,
+				configure the SMTP settings and
+				lastly, in the Notifications array insert in unique records:
+					the command name e.g. "masspayment",
+					the status(es) for which you want to be informed e.g "Success" and
+					the recipients you want the notifications to be sent.
+					
+					Example:
+						"Notifications": [
+						      {
+							"CommandName": "masspayment",
+							"Statuses": [ "Success", "Error" ],
+							"Recipients": [ "test@abc.gr" ]
+						      },
+						      {
+							"CommandName": "masstransferscredit",
+							"Statuses": [ "Success" ],
+							"Recipients": [ test@abc.gr", test2@abc.gr" ]
+						      }
+						    ]
+						    
 
 3.COMMANDS
 ---------------------------------------------------------------------------------
