@@ -4,7 +4,7 @@
 *
 *********************************************************************************
 
-1. Download -> git clone https://github.com/myNBGcode/FileAPI_Cli_V4.git
+1. Download -> git clone https://github.com/myNBGcode/FileAPI_Cli_V4_1.git
 2. In case you are using Windows x64 (other options are possible) use the .\selfcontained_readytorun_win-x64_build folder
 3. In case you want to use sandbox File Api and TPP payments:
     a.	Go to the development portal and create a client (app) , subscribe it to the https://developer.nbg.gr/apiProduct/File-Management-Platform-v4
@@ -21,7 +21,7 @@
 5. Some notes for the organization’s payments TPP:
     a. Payment cli command will store results in a json under name MassPaymentResponse_*
     b. To see available Types of production payments before you implement the actual production app you can read
-       https://github.com/myNBGcode/FileAPI_Cli_V4/tree/master/Documentation/Mass%20Bill%20Payments/mass_bill_payment_samples/masspaymentsample_command_samples.
+       https://github.com/myNBGcode/FileAPI_Cli_V4_1/tree/main/Documentation/Mass%20Bill%20Payments/mass_bill_payment_samples/masspaymentsample_command_samples.
        Βe aware you will find only static files so you must crosscheck your payments on the production implementation through the template call
     c. Available Types of payments will change over time so you must implement a mechanism to track changes on the template
     d. Payments will run asynchronous on production so you must ask for the outcome with an interval for example every 2 or 24 hours until you get a valid response
