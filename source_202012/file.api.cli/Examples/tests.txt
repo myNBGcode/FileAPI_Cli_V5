@@ -1,0 +1,1 @@
+﻿FileapiCli.exe download --fileid {54365C16-31EC-4CE3-A8AB-946E1ECC240F} --downloadfolder "c:\temp" --r vags;
