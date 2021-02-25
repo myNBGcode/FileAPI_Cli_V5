@@ -61,6 +61,10 @@
 			For sandbox calls your sandbox_id also needs to be provided here.
 			"sandbox_id": "MyUniqueSandbox"
 			
+			Set the EnableEthnofilesNew flag to:
+				- false if you want to use the old Ethnofiles flow (will be deprecated in the next version)
+				- true  if you want to use the new Ethnofiles flow (Recommended)
+			
 	2.2 * Password Encryption:
 			You can encrypt your password in the appsettings.json by running the setpassword
 			command and providing it. The system will re-write your appsettings.json and replace
@@ -104,6 +108,10 @@
 						      }
 						    ]
 						    
+			You can test this new functionality without performing a specific transaction. Just execute the
+			"sendtestemail" command of the File CLI and receive a test mail in the desired e-mail address.
+			Note: In your appsettings.json file declare the sendtestemail command in the appropriate section
+			as described above.
 
 3.COMMANDS
 ---------------------------------------------------------------------------------
