@@ -73,13 +73,13 @@
 	
 	2.3 URLs:
 			For Production Environmet you can use the following URLs in the configuration:
-				"proxyUrl": "https://services.nbg.gr/apis/fileapi/v4"
+				"proxyUrl": "https://services.nbg.gr/apis/fileapi/v4.1"
 				"ethnoProxyUrl": "https://services.nbg.gr/apis/ethnofiles.cli.api/v1"
-				"tppProxyUrl": "https://services.nbg.gr/apis/fileapi/v4"
+				"tppProxyUrl": "https://services.nbg.gr/apis/fileapi/v4.1"
 			For Sandbox Environmet you can use the following URLs in the configuration:
-				"proxyUrl": "https://apis.nbg.gr/sandbox/file/oauth2/v4"
-				"ethnoProxyUrl": "https://apis.nbg.gr/sandbox/file/oauth2/v4"
-				"tppProxyUrl": "https://apis.nbg.gr/sandbox/file/oauth2/v4"
+				"proxyUrl": "https://apis.nbg.gr/sandbox/file/oauth2/v4.1"
+				"ethnoProxyUrl": "https://apis.nbg.gr/sandbox/file/oauth2/v4.1"
+				"tppProxyUrl": "https://apis.nbg.gr/sandbox/file/oauth2/v4.1"
 				
 	2.4 Email notifications settings:
 	
