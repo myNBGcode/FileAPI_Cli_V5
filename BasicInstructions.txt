@@ -63,7 +63,7 @@
 			
 			Set the EnableEthnofilesNew flag to:
 				- false if you want to use the old Ethnofiles flow (will be deprecated in the next version)
-				- true  if you want to use the new Ethnofiles flow (Recommended)
+				- true if you want to use the new Ethnofiles flow (recommended)
 			
 	2.2 * Password Encryption:
 			You can encrypt your password in the appsettings.json by running the setpassword
