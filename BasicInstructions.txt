@@ -63,7 +63,7 @@
 			
 			Set the EnableEthnofilesNew flag to:
 				- false if you want to use the old Ethnofiles flow (will be deprecated in the next version)
-				- true if you want to use the new Ethnofiles flow (recommended)
+				- true  if you want to use the new Ethnofiles flow (recommended)
 			
 	2.2 * Password Encryption:
 			You can encrypt your password in the appsettings.json by running the setpassword
@@ -110,8 +110,8 @@
 						    
 			You can test this new functionality without performing a specific transaction. Just execute the
 			"sendtestemail" command of the File CLI and receive a test mail in the desired e-mail address.
-			Note: In your appsettings.json file declare the sendtestemail command in the appropriate section
-			as described above.
+			Note: In your appsettings.json file you should declare the sendtestemail command in the appropriate
+			section as described above.
 
 3.COMMANDS
 ---------------------------------------------------------------------------------
@@ -121,8 +121,10 @@ Below are samples of the output for all help options
 
 .\FileapiCli.exe
 -------------------------------------
+  cliversion                              Get cli version info.
+
   setpassword                             Set user password using encryption.
-  
+
   upload                                  Uploads File from a specified path
 
   download                                Downloads a File by its GUID, in a specified directory.
@@ -137,21 +139,7 @@ Below are samples of the output for all help options
 
   processenthofilesfile                   Uploads a file to file api and sends it to ethnofiles
 
-  samplemasspayment                       Download a sample mass payment file
-
-  masspayment                             Execute Mass Payment
-
-  masspaymentoutcome                      Response File for the Mass Payment send for payment.
-
-  requeststatus                           Request Payment Status for individual payments.
-
-  retrievestatus                          Retrieve Payment Status for individual payments.
-
-  samplemasstransfers                     Download a sample massive transfers file
-
-  masstransferscreditoutcome              Response File for the Mass Credit Transfers send for payment.
-
-  masstransferscredit                     Execute mass credit transfers.
+  sendethnofiles                          Send a file to Ethnofiles
 
   retrievecustomerapplicationsoutgoing    Retrieves outgoing customer applications.
 
@@ -173,8 +161,24 @@ Below are samples of the output for all help options
 
   downloadfilesincoming                   Downloads incomings files for user (both historical and non historical).
 
+  samplemasspayment                       Download a sample mass payment file
+
+  masspayment                             Execute Mass Payment
+
+  masspaymentoutcome                      Response File for the Mass Payment send for payment.
+
+  requeststatus                           Request Payment Status for individual payments.
+
+  retrievestatus                          Retrieve Payment Status for individual payments.
+
+  samplemasstransfers                     Download a sample massive transfers file
+
+  masstransferscreditoutcome              Response File for the Mass Credit Transfers send for payment.
+
+  masstransferscredit                     Execute mass credit transfers.
+
   sendtestemail                           Test your email settings
-  
+
   help                                    Display more information on a specific command.
 
   version                                 Display version information.
@@ -196,6 +200,8 @@ Below are samples of the output for all help options
                        Upload and Process File operations.)
 
   --help               Display this help screen.
+  
+  --version            Display version information.
 
 
  .\FileapiCli.exe help download
@@ -206,6 +212,8 @@ Below are samples of the output for all help options
   -d, --downloadfolder    Download location path. Omit to use the current path.
 
   --help                  Display this help screen.
+  
+  --version         	  Display version information.
 
 
 .\FileapiCli.exe help addusertags
@@ -216,6 +224,8 @@ Below are samples of the output for all help options
   -t, --usertags    User Tags to add separated by a comma
 
   --help            Display this help screen.
+  
+  --version         Display version information.
 
 
 .\FileapiCli.exe help removeusertags
@@ -226,46 +236,57 @@ Below are samples of the output for all help options
   -t, --usertags    User tags to remove separated by a comma
 
   --help            Display this help screen.
+  
+  --version         Display version information.
 
 
  .\FileapiCli.exe help sendtoethnofiles
  ---------------------------------------
 
-   --fileid             Required. File Guid from fileAPI.
+   --fileid                Required. File Guid from fileAPI.
 
-  --inputfile           Filename with full path. (add this if you want to use the --datafromfilename command)
+  --inputfile              Filename with full path. (add this if you want to use the --datafromfilename command)
 
-  --idfield             File Type Id
+  --idfield                File Type Id
 
-  --rowcount            The count of the rows in the file
+  --rowcount               The count of the rows in the file
 
-  --totalsum            The total sum of the file
+  --totalsum               The total sum of the file
 
-  --debtoriban          Debtor IBAN
+  --debtoriban             Debtor IBAN
 
-  --tannumber           Tan Number
+  --tannumber              Tan Number
 
-  --locale              Locale
+  --locale                 Locale
 
-  --inboxid             Inbox id
+  --inboxid                Inbox id
 
-  --xactionid           Xaction Id
+  --xactionid              Xaction Id
 
-  --issmsotp            Flag that indicates if is SmsOtp
+  --issmsotp               Flag that indicates if is SmsOtp
 
-  --debtorname          Debtor name
+  --debtorname             Debtor name
 
-  --acceptterms         Accept terms flag
+  --acceptterms            Accept terms flag
 
-  --accepttrnterms      Accept Ttn Terms flag
+  --accepttrnterms         Accept Ttn Terms flag
 
-  --datafromfilename    (Default: false) False by default. Set it to true to get row count and total sum from file name. The file name format must be XXXXXXXXXXXXXX_YYYYMMDD_XX_00000_000000.00 -.FTI.XML Row count part is 00000 and total
-                        sum part is 000000.00
+  --datafromfilename       (Default: false) False by default. Set it to true to get row count and total sum from file
+                           name. The file name format must be XXXXXXXXXXXXXX_YYYYMMDD_XX_00000_000000.00 -.FTI.XML Row
+                           count part is 00000 and total sum part is 000000.00
 
-  --help                Display this help screen.
+  --rowcountfrompainxml    If the parameter value is "001", the program will try to deserialize the xml input file
+                           according to SEPA 001 ISO 20022, and read the row count from the xml header node "NbOfTxs".
+
+  --totalsumfrompainxml    If the parameter value is "001", the program will try to deserialize the xml input file
+                           according to SEPA 001 ISO 20022, and read the row count from the xml header node "CtrlSum".
+
+  --help                   Display this help screen.
+
+  --version                Display version information.
 
 
-   .\FileapiCli.exe help processenthofilesfile 
+ .\FileapiCli.exe help processenthofilesfile 
  ---------------------------------------
 
   -i, --inputfile          Filename with full path, of the file to be uploaded. (Used in Upload and Process File
@@ -314,19 +335,29 @@ Below are samples of the output for all help options
                            according to SEPA 001 ISO 20022, and read the row count from the xml header node "CtrlSum".
 
   --help                   Display this help screen.
+  
+  --version                Display version information.
 
 
 
  .\FileapiCli.exe help retrievecustomerapplicationsincoming
  ----------------------------------------------------------
 
-   -d, --downloadfolder           Download location path for the .json list file. Omit to use the current path.
+   -d, --downloadfolder    Download location path for the .json list file. Omit to use the current path.
+   
+   --help                  Display this help screen.
+
+   --version               Display version information.
 
 
-  .\FileapiCli.exe help retrievecustomerapplicationsoutgoing
+ .\FileapiCli.exe help retrievecustomerapplicationsoutgoing
  -----------------------------------------------------------
 
-   -d, --downloadfolder           Download location path for the .json list file. Omit to use the current path.
+   -d, --downloadfolder    Download location path for the .json list file. Omit to use the current path.
+   
+   --help                  Display this help screen.
+
+   --version               Display version information.
 
 
  .\FileapiCli.exe help retrievefileincoming
@@ -336,9 +367,13 @@ Below are samples of the output for all help options
    
    -h, --isHistorical             Required.  Is historical file flag.
    
-   -v, --appVersion               Required.  Indicates if the file comes from migration (= 0) or is send from the new ethnofiles (= 1).
+   -v, --appversion               Indicates if the file comes from migration (= 0) or is send from the new ethnofiles (= 1).
 
    -d, --downloadfolder           Download location path. Omit to use the current path.
+   
+   --help                         Display this help screen.
+
+   --version                      Display version information.
 
 
  .\FileapiCli.exe help retrievefileoutgoing
@@ -352,75 +387,101 @@ Below are samples of the output for all help options
 
    -d, --downloadfolder           Download location path. Omit to use the current path.
 
+   --help                         Display this help screen.
+
+   --version                      Display version information.
+
 
  .\FileapiCli.exe help retrievefilesoutgoing
  -------------------------------------------
 
-   -d, --downloadfolder           Download location path for the .json list file. Omit to use the current path.
-
    -f, --datefrom                 Starting date of the time period files are retrieved from. Required
 
-   -t, --dateto                   End date of the time period files are retrieved from. Will fetch up to latest if ommited. 
+   -t, --dateto                   End date of the time period files are retrieved from. Will fetch up to latest if ommited.
+   
+   -d, --downloadfolder           Download location path for the .json list file. Omit to use the current path.
+   
+   --help                         Display this help screen.
 
+   --version                      Display version information.
+   
 
  .\FileapiCli.exe help retrievefilesoutgoinghistoric
  ---------------------------------------------------
 
-   -d, --downloadfolder           Download location path for the .json list file. Omit to use the current path.
-
    -f, --datefrom                 Starting date of the time period files are retrieved from. Required
 
-   -t, --dateto                   End date of the time period files are retrieved from. Will fetch up to latest if ommited. 
+   -t, --dateto                   End date of the time period files are retrieved from. Will fetch up to latest if ommited.
+   
+   -d, --downloadfolder           Download location path for the .json list file. Omit to use the current path.
+   
+   --help                         Display this help screen.
+
+   --version                      Display version information.
 
 
  .\FileapiCli.exe help retrievefilesincoming
  ----------------------------------------------
 
-   -d, --downloadfolder           Download location path for the .json list file. Omit to use the current path.
-
    --datefrom                     Starting date of the time period files are retrieved from. Required
 
-   --dateto                       End date of the time period files are retrieved from. Will fetch up to latest if ommited. 
+   --dateto                       End date of the time period files are retrieved from. Will fetch up to latest if ommited.
+   
+   -d, --downloadfolder           Download location path for the .json list file. Omit to use the current path.
+   
+   --help                         Display this help screen.
+
+   --version                      Display version information.
 
 
  .\FileapiCli.exe help retrievefilesincominghistoric
  ------------------------------------------------------
 
-   -d, --downloadfolder           Download location path for the .json list file. Omit to use the current path.
-
    --datefrom                     Starting date of the time period files are retrieved from. Required
 
-   --dateto                       End date of the time period files are retrieved from. Will fetch up to latest if ommited. 
+   --dateto                       End date of the time period files are retrieved from. Will fetch up to latest if ommited.
+   
+   -d, --downloadfolder           Download location path for the .json list file. Omit to use the current path.
+      
+   --help                         Display this help screen.
+
+   --version                      Display version information.
 
 
-  .\FileapiCli.exe help downloadfilesoutgoing
+ .\FileapiCli.exe help downloadfilesoutgoing
  ----------------------------------------------
 
   -f, --datefrom          Required. Starting date (yyyy-mm-dd) of the time period files are retrieved from. Required
 
-  -t, --dateto            End date (yyyy-mm-dd) of the time period files are retrieved from. Will fetch up to latest if
-                          ommited
+  -t, --dateto            End date (yyyy-mm-dd) of the time period files are retrieved from. Will fetch up to latest if ommited
 
   -d, --downloadfolder    Download location path for the files. Omit to use the current path.
 
   -h, --isHistorical      Is historical file flag. If not defined returns both historical and non histrorical.
 
   -m, --maxItems          Required. Max number of items to be downloaded. Required
+  
+  --help                  Display this help screen.
+
+  --version               Display version information.
 
 
-  .\FileapiCli.exe help downloadfilesincoming
+ .\FileapiCli.exe help downloadfilesincoming
  ----------------------------------------------
 
    -f, --datefrom         Required. Starting date (yyyy-mm-dd) of the time period files are retrieved from. Required
 
-  -t, --dateto            End date (yyyy-mm-dd) of the time period files are retrieved from. Will fetch up to latest if
-                          ommited
+  -t, --dateto            End date (yyyy-mm-dd) of the time period files are retrieved from. Will fetch up to latest if ommited
 
   -d, --downloadfolder    Download location path for the files. Omit to use the current path.
 
   -h, --isHistorical      Is historical file flag. If not defined returns both historical and non histrorical.
 
   -m, --maxItems          Required. Max number of items to be downloaded. Required
+    
+  --help                  Display this help screen.
+
+  --version               Display version information.
 
 
 .\FileapiCli.exe help samplemasspayment
@@ -431,6 +492,8 @@ Below are samples of the output for all help options
   --DownloadFolder    Required. Download location path
 
   --help              Display this help screen.
+  
+  --version           Display version information.
 
 
  .\FileapiCli.exe help masspayment
@@ -471,6 +534,8 @@ Below are samples of the output for all help options
   --downloadfolder    Download location path. Omit to use the current folder
 
   --help              Display this help screen.
+  
+  --version           Display version information.
 
 
 .\FileapiCli.exe help requeststatus
@@ -479,6 +544,8 @@ Below are samples of the output for all help options
   --FileId     The id of the file
 
   --help       Display this help screen.
+  
+  --version    Display version information.
 
 
 .\FileapiCli.exe help retrievestatus
@@ -489,6 +556,8 @@ Below are samples of the output for all help options
   --downloadfolder    Download location path. Omit to use the current folder
 
   --help              Display this help screen.
+  
+  --version           Display version information.
 
 
 .\FileapiCli.exe help samplemasstransfers
@@ -500,8 +569,10 @@ Below are samples of the output for all help options
 
   --help              Display this help screen.
   
+  --version           Display version information.
   
- .\FileapiCli.exe help masstransferscredit
+  
+.\FileapiCli.exe help masstransferscredit
 -----------------------------------------
   
   -i, --inputfile      Filename with full path, of the file to be uploaded. (Used in Upload and Process File operations.)
@@ -533,6 +604,8 @@ Below are samples of the output for all help options
   --fileformat        The file type of the downloaded file. Omit to use the default file type
 
   --help              Display this help screen.
+  
+  --version           Display version information
 
 
 4.EXAMPLES
@@ -574,7 +647,7 @@ In appsettings "DebtorName": "{anyname}", "DebtorIBan": "IbanThatWillBeTheSource
 
 .\FileapiCli.exe retrievefilesoutgoing -d C:\tmp -f 2020-01-01
 .\FileapiCli.exe retrievefilesoutgoinghistoric -d C:\tmp -f 2020-01-01
-.\FileapiCli.exe retrievefileoutgoing -d C:\tmp -i 496 -h false
+.\FileapiCli.exe retrievefileoutgoing -d C:\tmp -i 496 -h false -v 0
 
 :: Ethnofiles-ΑΠΕΣΤΑΛΜΕΝΑ ΑΡΧΕΙΑ
 .\FileapiCli.exe downloadfilesincoming -d C:\tmp\incoming -f 2020-01-01 -h false -m 50
@@ -583,7 +656,7 @@ In appsettings "DebtorName": "{anyname}", "DebtorIBan": "IbanThatWillBeTheSource
 
 .\FileapiCli.exe retrievefilesincoming -d C:\tmp -f 2020-01-01
 .\FileapiCli.exe retrievefilesincominghistoric -d C:\tmp -f 2020-01-01
-.\FileapiCli.exe retrievefileincoming -d C:\tmp -i 746 -h false
+.\FileapiCli.exe retrievefileincoming -d C:\tmp -i 746 -h false -v 0
 
 
 4.3 MASS BILL PAYMENTS EXAMPLES
