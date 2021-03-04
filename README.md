@@ -6,11 +6,11 @@ In the [Documentation](https://github.com/myNBGcode/FileAPI_Cli_V4_1/tree/main/D
 
 Please read [BasicInstructions](https://github.com/myNBGcode/FileAPI_Cli_V4_1/blob/main/BasicInstructions.txt) for more info about the configuration and the available commands.
 Specific **examples** of the various functions of File CLI can be found below:
-* [Files](https://github.com/myNBGcode/FileAPI_Cli_V4_1/blob/8b9198d2d78ec9d13fa7c3634a6ada78a2f151e9/BasicInstructions.txt#L424)
-* [Ethnofiles](https://github.com/myNBGcode/FileAPI_Cli_V4_1/blob/8b9198d2d78ec9d13fa7c3634a6ada78a2f151e9/BasicInstructions.txt#L440)
-* [Mass Bill Payments](https://github.com/myNBGcode/FileAPI_Cli_V4_1/blob/8b9198d2d78ec9d13fa7c3634a6ada78a2f151e9/BasicInstructions.txt#L475)
+* [Files](https://github.com/myNBGcode/FileAPI_Cli_V4_1/blob/8593687f42ddfd133d8c2a075bde5a697633c027/BasicInstructions.txt#L616)
+* [Ethnofiles](https://github.com/myNBGcode/FileAPI_Cli_V4_1/blob/8593687f42ddfd133d8c2a075bde5a697633c027/BasicInstructions.txt#L632)
+* [Mass Bill Payments](https://github.com/myNBGcode/FileAPI_Cli_V4_1/blob/8593687f42ddfd133d8c2a075bde5a697633c027/BasicInstructions.txt#L662)
   * Also, a [video](https://www.youtube.com/watch?v=IgDmc6jYa6Y) showing a demonstration of the mass bill payment functionalities, is available.
-* [Mass Transfers](https://github.com/myNBGcode/FileAPI_Cli_V4_1/blob/8b9198d2d78ec9d13fa7c3634a6ada78a2f151e9/BasicInstructions.txt#L498)
+* [Mass Transfers](https://github.com/myNBGcode/FileAPI_Cli_V4_1/blob/8593687f42ddfd133d8c2a075bde5a697633c027/BasicInstructions.txt#L685)
 
 For a Quick Start on FileAPI_CLI jump to our [QuickGuide](https://github.com/myNBGcode/FileAPI_Cli_V4_1/blob/main/QuickGuide.txt) file.
 
