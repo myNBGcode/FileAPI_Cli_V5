@@ -15,7 +15,7 @@
     c.	Get a token and Create a sandbox for the File Management Api from the development portal. Store the sandbox id to use it on the next step
     d.	Edit appsettings.json  
         i. Change any "THE_xxxx" with your personal settings. For example for sandbox "acr_values": "THE_ACR_VALUES", must be changed to "acr_values": "provider:1",
-           as is stated on the api documentation and all “apis urls” must have the same value https://apis.nbg.gr/sandbox/file/oauth2/v4 
+           as is stated on the api documentation and all “apis urls” must have the same value https://apis.nbg.gr/sandbox/file/oauth2/v4.1
     e.	Now you can run example commands described on https://developer.nbg.gr/apiProduct/File-Management-Platform-v4
 4. Sandbox will not do any advanced validations, is more a tool to test connectivity with nbg, to create your algorithm and your types
 5. Some notes for the organization’s payments TPP:
