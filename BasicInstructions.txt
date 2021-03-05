@@ -662,7 +662,7 @@ In appsettings "DebtorName": "{anyname}", "DebtorIBan": "IbanThatWillBeTheSource
 4.3 MASS BILL PAYMENTS EXAMPLES
 -------------------------
 
-:: Sample Bill Mass Payments
+:: Mass Bill Payments Sample
 .\FileapiCli.exe samplemasspayment --fileType "json" --downloadfolder C:\tmp\ 
 .\FileapiCli.exe samplemasspayment --fileType "csv" --downloadfolder C:\tmp\
 .\FileapiCli.exe samplemasspayment --fileType "xml" --downloadfolder C:\tmp\
