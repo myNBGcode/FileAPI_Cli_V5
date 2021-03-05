@@ -6,7 +6,7 @@ Dlls for types that the solution needs have been included in the dlls folder.
 
 Use this solution as a sample to integrate your application with nbg file cli api. 
 
-Details for the cli arguments you can find on [BasicInstructions](https://github.com/myNBGcode/FileAPI_Cli_v4/blob/master/BasicInstructions.txt).
+Details for the cli arguments you can find on [BasicInstructions](https://github.com/myNBGcode/FileAPI_Cli_V4_1/blob/main/BasicInstructions.txt).
 
 # Happy Coding !! 
 
