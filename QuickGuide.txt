@@ -7,7 +7,7 @@
 1. Download -> git clone https://github.com/myNBGcode/FileAPI_Cli_V4_1.git
 2. In case you are using Windows x64 (other options are possible) use the .\selfcontained_readytorun_win-x64_build folder
 3. In case you want to use sandbox File Api and TPP payments:
-    a.	Go to the development portal and create a client (app) , subscribe it to the https://developer.nbg.gr/apiProduct/File-Management-Platform-v4
+    a.	Go to the development portal and create a client (app) , subscribe it to the https://developer.nbg.gr/apiProduct/File-Management-Platform
     b.	Ask from your nbg contact to 
         i.   add cli flow on this client with encryption property 
         ii.  add prefix claims
@@ -16,7 +16,7 @@
     d.	Edit appsettings.json  
         i. Change any "THE_xxxx" with your personal settings. For example for sandbox "acr_values": "THE_ACR_VALUES", must be changed to "acr_values": "provider:1",
            as is stated on the api documentation and all “apis urls” must have the same value https://apis.nbg.gr/sandbox/file/oauth2/v4.1
-    e.	Now you can run example commands described on https://developer.nbg.gr/apiProduct/File-Management-Platform-v4
+    e.	Now you can run example commands described on https://developer.nbg.gr/apiProduct/File-Management-Platform
 4. Sandbox will not do any advanced validations, is more a tool to test connectivity with nbg, to create your algorithm and your types
 5. Some notes for the organization’s payments TPP:
     a. Payment cli command will store results in a json under name MassPaymentResponse_*
