@@ -7,7 +7,7 @@
 1. Download -> git clone https://github.com/myNBGcode/FileAPI_Cli_V4_1.git
 2. In case you are using Windows x64 (other options are possible) use the .\selfcontained_readytorun_win-x64_build folder
 3. In case you want to use sandbox File Api and TPP payments:
-    a.	Go to the development portal and create a client (app) , subscribe it to the https://developer.nbg.gr/apiProduct/File-Management-Platform
+    a.	Go to the development portal and create a client (app), subscribe it to the https://developer.nbg.gr/apiProduct/File-Management-Platform
     b.	Ask from your nbg contact to 
         i.   add cli flow on this client with encryption property 
         ii.  add prefix claims
