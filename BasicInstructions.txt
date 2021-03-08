@@ -7,9 +7,12 @@
 1.INSTALLATION & USAGE
 ---------------------------------------------------------------------------------
 	1.1 The application leverages the .Net Core Runtime library to be able to conform 
-		to the multiplatform requirements. In order to run the application the current 
+		to the multiplatform requirements. In order to run the application
+		(portable_framework_dependent_netcore3.1_build folder) the current 
 		.Net Core Runtime for your environment must be downloaded and installed 
-		(https://dotnet.microsoft.com/download).
+		(https://dotnet.microsoft.com/download). In case you are using Windows x64
+		(other options are possible) use the File CLI of the selfcontained_readytorun_win-x64_build
+		folder.
 
     1.2 The application is run through CMD by navigating to the location of the exported 
 		"FileCliApi.dll" file (in most cases the bin file of the project will contain said .dll). 
@@ -56,7 +59,12 @@
 			It is suggested to use arc_provider=1 for sandbox calls and arc_provider=5 
 			for production calls.
 			
-			For ethnofiles calls the ethnofiles scope should also be added to the "scope".
+			For file calls you should use this scope:
+				"openid profile ibank_profile sandbox-file-api-v4" (for sandbox environment) or
+				"openid profile ibank_profile file-api-v4" (for production environment).
+			
+			For ethnofiles calls the ethnofiles scope should also be added to the "scope":
+				"ethnofiles-cli-api" (for production environment)
 
 			For sandbox calls your sandbox_id also needs to be provided here.
 			"sandbox_id": "MyUniqueSandbox"
