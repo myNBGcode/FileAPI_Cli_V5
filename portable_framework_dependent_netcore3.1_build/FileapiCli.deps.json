@@ -38,7 +38,7 @@
           "ethnofiles.types.common": "1.0.0",
           "ethnofiles.validations.types": "1.0.4",
           "file.types": "1.0.0",
-          "tpp.types": "1.0.3"
+          "tpp.types": "1.0.4"
         },
         "runtime": {
           "FileapiCli.dll": {}
@@ -1307,14 +1307,14 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
-      "tpp.types/1.0.3": {
+      "tpp.types/1.0.4": {
         "dependencies": {
           "Newtonsoft.Json": "12.0.3"
         },
         "runtime": {
           "lib/netstandard2.0/tpp.types.dll": {
-            "assemblyVersion": "1.0.3.0",
-            "fileVersion": "1.0.3.0"
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
           }
         }
       }
@@ -2222,12 +2222,12 @@
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
     },
-    "tpp.types/1.0.3": {
+    "tpp.types/1.0.4": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-/ZVU+Xp6Uo1N0/yw9N+w4jjWkm7d1G6OXlnW0VQQOd5P9CWRx1Vm3n4StxnETnQAZLLVJ4tSt2HVcl7NBecevA==",
-      "path": "tpp.types/1.0.3",
-      "hashPath": "tpp.types.1.0.3.nupkg.sha512"
+      "sha512": "sha512-6ac0AH+wvWwKo7+J0djk0GJHZIjT6Nc7+SmIAP4uMW/GsVA71K/NA7EQV0NRvb8Jqxi0jDst3VEO0Fi/7+GYKg==",
+      "path": "tpp.types/1.0.4",
+      "hashPath": "tpp.types.1.0.4.nupkg.sha512"
     }
   }
 }
