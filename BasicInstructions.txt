@@ -148,6 +148,8 @@
 					"Statuses": [ "Success", "Error" ],
 					"Recipients": [ "test@domain.gr", "test2@domain.gr" ]
 				  }
+			
+			Caution! Ιn the current implementation, no email notification can be sent for the same command to different recipients per status.
 
 3.COMMANDS
 ---------------------------------------------------------------------------------
