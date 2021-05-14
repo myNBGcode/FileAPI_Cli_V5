@@ -56,7 +56,7 @@
 			For users using iBank credentials:
 			"acr_values": "provider:5"
 
-			It is suggested to use arc_provider=1 for sandbox calls and arc_provider=5 
+			It is suggested to use "acr_values": "provider:1" for sandbox calls and "acr_values": "provider:5" 
 			for production calls.
 			
 			For file calls you should use this scope:
