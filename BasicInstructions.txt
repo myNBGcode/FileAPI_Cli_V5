@@ -51,10 +51,10 @@
 			* "password": "your_portal_password",
 
 			For users using Developer Portal credentials:
-			arc_provider=1
+			"acr_values": "provider:1"
 
 			For users using iBank credentials:
-			arc_provider=5
+			"acr_values": "provider:5"
 
 			It is suggested to use arc_provider=1 for sandbox calls and arc_provider=5 
 			for production calls.
