@@ -737,6 +737,7 @@ In appsettings "DebtorName": "{anyname}", "DebtorTelephone": "{anytelephone}","D
 .\FileapiCli.exe masstransferscreditoutcome --fileid "aff060be-0c53-48e9-9962-519812ee0865" --downloadfolder C:\tmp\ --fileformat json
 .\FileapiCli.exe masstransferscreditoutcome --fileid "aff060be-0c53-48e9-9962-519812ee0865" --downloadfolder C:\tmp\ --fileformat csv
 .\FileapiCli.exe masstransferscreditoutcome --fileid "aff060be-0c53-48e9-9962-519812ee0865" --downloadfolder C:\tmp\ --fileformat xml
+.\FileapiCli.exe masstransferscreditoutcome --fileid "aff060be-0c53-48e9-9962-519812ee0865" --downloadfolder C:\tmp\ --fileformat pdf
 
 
 4.5 Email Notifications
