@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Transactions>
+	<Transaction>
+		<showDetails>false</showDetails>
+		<userId>PLASMA049200083</userId>
+		<trnNo />
+		<trnId>20210623111808817847</trnId>
+		<name>TEST1</name>
+		<description>ΑΡΧΕΙΟ mass_log_ete_.csv</description>
+		<createdDate />
+		<executionDate>2021-06-23T00:00:00+03:00</executionDate>
+		<cancellationDate />
+		<frequency />
+		<totalPayments />
+		<amount />
+		<status>0</status>
+		<transId>1808815169</transId>
+		<channel />
+		<rowsNum>0</rowsNum>
+		<debitAccount />
+		<totalAmount>0.1</totalAmount>
+		<creditAccount>GR7901100400000004001724808</creditAccount>
+		<details />
+		<historical />
+		<history />
+		<future />
+		<master />
+	</Transaction>
+	<Transaction>
+		<showDetails>false</showDetails>
+		<userId>PLASMA049200083</userId>
+		<trnNo />
+		<trnId>20210623111808827556</trnId>
+		<name>TEST2</name>
+		<description>ΑΡΧΕΙΟ mass_log_ete_.csv</description>
+		<createdDate />
+		<executionDate>2021-06-23T00:00:00+03:00</executionDate>
+		<cancellationDate />
+		<frequency />
+		<totalPayments />
+		<amount />
+		<status>0</status>
+		<transId>1808815169</transId>
+		<channel />
+		<rowsNum>0</rowsNum>
+		<debitAccount />
+		<totalAmount>0.1</totalAmount>
+		<creditAccount>GR2301100750000007500394627</creditAccount>
+		<details />
+		<historical />
+		<history />
+		<future />
+		<master />
+	</Transaction>
+</Transactions>
