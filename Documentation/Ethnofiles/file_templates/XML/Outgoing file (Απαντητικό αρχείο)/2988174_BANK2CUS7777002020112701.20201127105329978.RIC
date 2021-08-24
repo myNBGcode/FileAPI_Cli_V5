@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="urn:iso:std:iso:20022:tech:xsd:pain.002.001.03" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CstmrPmtStsRpt>
+    <GrpHdr>
+      <MsgId>RE050647283f4804b729d0e99ec96121e54</MsgId>
+      <CreDtTm>2020-11-27T10:53:29.8225695+02:00</CreDtTm>
+    </GrpHdr>
+    <OrgnlGrpInfAndSts>
+      <OrgnlMsgId>050647283f4804b729d0e99ec96121e54</OrgnlMsgId>
+      <OrgnlMsgNmId>050647283f4804b729d0e99ec96121e54</OrgnlMsgNmId>
+    </OrgnlGrpInfAndSts>
+    <OrgnlPmtInfAndSts>
+      <OrgnlPmtInfId>f8ef93e0b5134dd49707c0ba4b928007</OrgnlPmtInfId>
+      <PmtInfSts>ACSP</PmtInfSts>
+      <TxInfAndSts>
+        <OrgnlInstrId>d1f0fda773ba4d608de834f486f18f59</OrgnlInstrId>
+        <OrgnlEndToEndId>NOTPROVIDED</OrgnlEndToEndId>
+        <TxSts>ACSP</TxSts>
+        <StsRsnInf>
+          <AddtlInf>ACCEPTED SETTLEMENT IN PROCESS</AddtlInf>
+        </StsRsnInf>
+        <OrgnlTxRef>
+          <IntrBkSttlmAmt Ccy="EUR">0.22</IntrBkSttlmAmt>
+          <ReqdExctnDt>2020-11-30</ReqdExctnDt>
+          <PmtTpInf>
+            <CtgyPurp>
+              <Prtry>SUPP</Prtry>
+            </CtgyPurp>
+          </PmtTpInf>
+          <RmtInf>
+            <Ustrd>00000000000000000</Ustrd>
+          </RmtInf>
+          <Dbtr>
+            <Nm>ΠΛΑΣΜΑΤΙΚΗ ΕΤΑΙΡΕΙΑ</Nm>
+          </Dbtr>
+          <DbtrAcct>
+            <Id>
+              <IBAN>GR3101100400000004047330610</IBAN>
+            </Id>
+          </DbtrAcct>
+          <DbtrAgt>
+            <FinInstnId>
+              <BIC>ETHNGRAA</BIC>
+            </FinInstnId>
+          </DbtrAgt>
+          <CdtrAgt>
+            <FinInstnId>
+              <BIC>ETHNGRAA</BIC>
+            </FinInstnId>
+          </CdtrAgt>
+          <CdtrAgtAcct>
+            <Id>
+              <IBAN>GR9601100400000004047330701</IBAN>
+            </Id>
+          </CdtrAgtAcct>
+          <Cdtr>
+            <Nm>PLASMA701</Nm>
+          </Cdtr>
+          <UltmtCdtr>
+            <Nm>ΠΛΑΣΜΑΤΙΚΗ ΕΤΑΙΡΕΙΑ ΧΡΗΣΤΗΣ INTERNE</Nm>
+          </UltmtCdtr>
+        </OrgnlTxRef>
+      </TxInfAndSts>
+      <TxInfAndSts>
+        <OrgnlInstrId>2841c3e48fca4eafbfe08e121524fb33</OrgnlInstrId>
+        <OrgnlEndToEndId>NOTPROVIDED</OrgnlEndToEndId>
+        <TxSts>ACSP</TxSts>
+        <StsRsnInf>
+          <AddtlInf>ACCEPTED SETTLEMENT IN PROCESS</AddtlInf>
+        </StsRsnInf>
+        <OrgnlTxRef>
+          <IntrBkSttlmAmt Ccy="EUR">0.23</IntrBkSttlmAmt>
+          <ReqdExctnDt>2020-11-30</ReqdExctnDt>
+          <PmtTpInf>
+            <CtgyPurp>
+              <Prtry>SUPP</Prtry>
+            </CtgyPurp>
+          </PmtTpInf>
+          <RmtInf>
+            <Ustrd>00000000000000000</Ustrd>
+          </RmtInf>
+          <Dbtr>
+            <Nm>ΠΛΑΣΜΑΤΙΚΗ ΕΤΑΙΡΕΙΑ</Nm>
+          </Dbtr>
+          <DbtrAcct>
+            <Id>
+              <IBAN>GR3101100400000004047330610</IBAN>
+            </Id>
+          </DbtrAcct>
+          <DbtrAgt>
+            <FinInstnId>
+              <BIC>ETHNGRAA</BIC>
+            </FinInstnId>
+          </DbtrAgt>
+          <CdtrAgt>
+            <FinInstnId>
+              <BIC>ETHNGRAA</BIC>
+            </FinInstnId>
+          </CdtrAgt>
+          <CdtrAgtAcct>
+            <Id>
+              <IBAN>GR2301100750000007500394627</IBAN>
+            </Id>
+          </CdtrAgtAcct>
+          <Cdtr>
+            <Nm>PLASMA627</Nm>
+          </Cdtr>
+          <UltmtCdtr>
+            <Nm>ΠΛΑΣΜΑΤΙΚΗ ΕΤΑΙΡΕΙΑ ΧΡΗΣΤΗΣ INTERNE</Nm>
+          </UltmtCdtr>
+        </OrgnlTxRef>
+      </TxInfAndSts>
+    </OrgnlPmtInfAndSts>
+  </CstmrPmtStsRpt>
+</Document>
