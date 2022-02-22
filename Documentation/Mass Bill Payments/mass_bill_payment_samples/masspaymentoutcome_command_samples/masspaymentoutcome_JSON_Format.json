@@ -6197,14 +6197,12 @@
         "paymentOrgIdentificationPAYMENT_CODE": "SAMPLETEXTSAMPLETEXTSAMPL",
 	"Outcome": "PROCESSED"
     }, {
-		"orgId": "ede5593c-aa93-421c-b05b-dee3261560be",
-		"orgName": "e-Παράβολο",
-		"paymentIdentificationinstrId": "SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE",
-		"settlementInfomethod": "SAMPLETEXT",
-		"settlementInfoamount": "112233445566.00",
-		"paymentOrgIdentificationDEBTOR_TAX_ID": "233445566",
-		"paymentOrgIdentificationPAYMENT_CODE": "12233445566",
-		"paymentOrgIdentificationAUX_PAYMENT_CODE": "12233445566",
+	"orgId": "ede5593c-aa93-421c-b05b-dee3261560be",
+	"orgName": "Έκδοση & Πληρωμή e-παραβόλου",
+	"paymentIdentificationinstrId": "SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE",
+	"settlementInfomethod": "SAMPLETEXT",
+	"settlementInfoamount": "112233445566.00",
+	"paymentOrgIdentificationPAYMENT_CODE": "SAMPLETEXTSAMPLETEXTSAMPL",
 	"Outcome": "PROCESSED"
 	},
 	{
