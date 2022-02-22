@@ -6959,13 +6959,11 @@
   </payment>
   <payment>
     <orgId>ede5593c-aa93-421c-b05b-dee3261560be</orgId>
-    <orgName>e-Παράβολο</orgName>
+    <orgName>Έκδοση &amp; Πληρωμή e-παραβόλου</orgName>
     <paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
     <settlementInfomethod>SAMPLETEXT</settlementInfomethod>
     <settlementInfoamount>112233445566.00</settlementInfoamount>
-    <paymentOrgIdentificationDEBTOR_TAX_ID>233445566</paymentOrgIdentificationDEBTOR_TAX_ID>
-    <paymentOrgIdentificationPAYMENT_CODE>12233445566</paymentOrgIdentificationPAYMENT_CODE>
-    <paymentOrgIdentificationAUX_PAYMENT_CODE>12233445566</paymentOrgIdentificationAUX_PAYMENT_CODE>
+    <paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
     <outcome>PROCESSED</outcome>
   </payment>
   <payment>
