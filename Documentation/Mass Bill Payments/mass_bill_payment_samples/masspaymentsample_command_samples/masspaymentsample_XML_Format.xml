@@ -17,6 +17,14 @@
 		<paymentOrgIdentificationPAYMENT_CODE>00000000112233445566</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
+		<orgId>0fb6493f-222c-46c5-8bcb-df25e0a1b402</orgId>
+		<orgName>A AND M ARCHITECTS</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
 		<orgId>1a576935-170d-4c3b-aae4-3a71483dc424</orgId>
 		<orgName>A.N.E.K.</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
@@ -184,6 +192,14 @@
 		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
+		<orgId>2d197419-9a84-4671-8269-4aa69e113296</orgId>
+		<orgName>ANYWARE IKE</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
 		<orgId>b5cf3baf-a15c-4f1e-8d46-3c9329a7ffd6</orgId>
 		<orgName>APEIRON INSURANCE</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
@@ -329,22 +345,6 @@
 		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
-		<orgId>471b2142-a0d3-48d4-85c6-48a60941ed06</orgId>
-		<orgName>AXA ΑΣΦΑΛ.ΚΛΑΔΟΣ ΓΕΝ.ΑΣΦΑΛΕΙΩΝ</orgName>
-		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
-		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
-		<settlementInfoamount>112233445566.00</settlementInfoamount>
-		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXT</paymentOrgIdentificationPAYMENT_CODE>
-	</payment>
-	<payment>
-		<orgId>f7dd465d-2925-410d-b22c-8dc809456e28</orgId>
-		<orgName>AXA ΑΣΦΑΛΙΣΤΙΚΗ ΚΛΑΔΟΣ ΖΩΗΣ</orgName>
-		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
-		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
-		<settlementInfoamount>112233445566.00</settlementInfoamount>
-		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXT</paymentOrgIdentificationPAYMENT_CODE>
-	</payment>
-	<payment>
 		<orgId>8a5f732b-c2ee-4d1a-b9a5-def57c7d3f29</orgId>
 		<orgName>AXIVEN ΕΠΕ</orgName>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
@@ -354,6 +354,14 @@
 	<payment>
 		<orgId>b9c3e99e-58ba-4b0e-ac51-d2875a86ca8e</orgId>
 		<orgName>BALKAN BUSINESS SERVICES LTD</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
+		<orgId>72ca6b84-ad66-4b97-aaaf-1353465889a8</orgId>
+		<orgName>BASE TRAINING</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
@@ -445,6 +453,14 @@
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
 		<paymentOrgIdentificationPAYMENT_CODE>00000000112233445566</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
+		<orgId>7f2da5a1-029e-4d01-9e01-b35c6856833e</orgId>
+		<orgName>BOSCH REXROTH S.A.</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
 		<orgId>7abf5a25-ab31-4eaf-aa92-6861e8033698</orgId>
@@ -567,6 +583,14 @@
 		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
+		<orgId>7beb5b49-f74f-4144-9772-4f58ec819839</orgId>
+		<orgName>CASTROL HELLAS ΜΟΝ. ΑΕ</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>00000000112233445566</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
 		<orgId>b1b79b9f-a49a-40e4-8b7f-342f8f43e590</orgId>
 		<orgName>CNP ΑΣΦΑΛΙΣΤΙΚΗ LTD</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
@@ -663,12 +687,20 @@
 		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
+		<orgId>6aa0ec6f-1de6-4623-b2fb-52062c016fad</orgId>
+		<orgName>COSMOTE KINHTH ΜΕΓ. ΠΕΛΑΤΕΣ</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
 		<orgId>5b35b95d-abf0-47bc-a1db-da73d48c3708</orgId>
 		<orgName>COSMOTE ΚΙΝΗΤΗ</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
-		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXT</paymentOrgIdentificationPAYMENT_CODE>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
 		<orgId>03506617-4af1-4400-add4-77a8d5df2093</orgId>
@@ -684,7 +716,7 @@
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
-		<paymentOrgIdentificationPAYMENT_CODE>00000000112233445566</paymentOrgIdentificationPAYMENT_CODE>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
 		<orgId>6ad8a10e-8801-4e71-97ba-7e7bcc84ee13</orgId>
@@ -692,7 +724,7 @@
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
-		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEX</paymentOrgIdentificationPAYMENT_CODE>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
 		<orgId>736ede67-f766-41d1-83ba-b1fc6e21dabc</orgId>
@@ -700,7 +732,7 @@
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
-		<paymentOrgIdentificationPAYMENT_CODE>00000000112233445566</paymentOrgIdentificationPAYMENT_CODE>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
 		<orgId>0f5903e4-f148-4537-8ab7-543769b4fa56</orgId>
@@ -725,6 +757,14 @@
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
 		<paymentOrgIdentificationPAYMENT_CODE>00000000112233445566</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
+		<orgId>47df9982-52e6-465f-aedc-abe14239d440</orgId>
+		<orgName>CURIOUS AHEAD Α.Ε.</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
 		<orgId>763905b3-c596-4b1f-b076-81eaa2b600d8</orgId>
@@ -941,14 +981,6 @@
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
 		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
-	</payment>
-	<payment>
-		<orgId>7fa0affa-e354-4b04-bbe5-6f07b3e1d38d</orgId>
-		<orgName>EMPORIKI RENT</orgName>
-		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
-		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
-		<settlementInfoamount>112233445566.00</settlementInfoamount>
-		<paymentOrgIdentificationPAYMENT_CODE>00000000112233445566</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
 		<orgId>b495a2d4-9b9b-437e-a53f-0bc49ed43c01</orgId>
@@ -1238,6 +1270,22 @@
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
 		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
+		<orgId>f7dd465d-2925-410d-b22c-8dc809456e28</orgId>
+		<orgName>GENERALI (πρ.ΑΧΑ) ΑΣΦ. ΖΩΗΣ</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXT</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
+		<orgId>471b2142-a0d3-48d4-85c6-48a60941ed06</orgId>
+		<orgName>GENERALI (πρ.ΑΧΑ) ΓΕΝΙΚΕΣ ΑΣΦ.</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXT</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
 		<orgId>59258107-71a1-47cf-921c-da5b06139d3c</orgId>
@@ -1592,6 +1640,14 @@
 		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
+		<orgId>47f801ea-66a7-47ca-93ae-fc372471b3fc</orgId>
+		<orgName>INTER CARS GREECE ΕΠΕ</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
 		<orgId>aeec2b2a-0707-4b43-a06f-bcd0ca85ee34</orgId>
 		<orgName>INTER FINANCE HELLAS GROUP LTD</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
@@ -1770,6 +1826,14 @@
 	<payment>
 		<orgId>28d8c0ed-380e-401a-9d1a-1cd89f667dc2</orgId>
 		<orgName>LANOVA A.E.</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
+		<orgId>628fa19b-2004-4591-bd77-1e36bab8a875</orgId>
+		<orgName>LEASEPLAN HELLAS AE</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
@@ -2618,6 +2682,14 @@
 		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
+		<orgId>169fb611-df82-4f02-8aa6-554a46cd7d02</orgId>
+		<orgName>SAGE APPLIANCE</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
 		<orgId>e0a959d9-0ff2-4304-83b7-5285703704d1</orgId>
 		<orgName>SAKOS AE</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
@@ -2646,6 +2718,22 @@
 		<orgName>SANTANDER CONSUMER FINANCE SA GR</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
+		<orgId>11e91341-9e69-4d92-b034-2985267b1a74</orgId>
+		<orgName>SATO - ENTOS</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
+		<orgId>091e5128-ce87-46b4-9d46-0d9b98062aaf</orgId>
+		<orgName>SATO COMMERCIAL</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
 		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
@@ -2710,6 +2798,14 @@
 		<orgName>SKYTELECOM</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXTSAMPL</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
+		<orgId>0368aee4-7e70-4ba6-a668-1d012ccfb56f</orgId>
+		<orgName>SOFOS INSURANCE AGENCY ΑΕ</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
 		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
@@ -2946,8 +3042,24 @@
 		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
+		<orgId>aa716e56-6063-4604-8c89-b432213c2bf0</orgId>
+		<orgName>UNLIMITED ΕΠΕ</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
 		<orgId>f1097430-6495-4770-bc1f-46633bd9c2a7</orgId>
 		<orgName>UP HELLAS</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
+		<orgId>8d643865-46bc-4c40-8155-7bc91f7da658</orgId>
+		<orgName>V AND O ΑΕ</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
@@ -2972,14 +3084,6 @@
 	<payment>
 		<orgId>6992b8b0-1f5c-4021-9795-84ba8a40c768</orgId>
 		<orgName>VIVA WALLET</orgName>
-		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
-		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
-		<settlementInfoamount>112233445566.00</settlementInfoamount>
-		<paymentOrgIdentificationPAYMENT_CODE>00000000112233445566</paymentOrgIdentificationPAYMENT_CODE>
-	</payment>
-	<payment>
-		<orgId>f9503aba-ffc9-4626-a06b-afe8bb9ca0a4</orgId>
-		<orgName>VIVODI</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
@@ -3085,6 +3189,14 @@
 	<payment>
 		<orgId>527e2a4d-d198-4ef1-b3c5-8068ebf0de75</orgId>
 		<orgName>VW FINANCIAL SERVICES - LEASING</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
+		<orgId>7fabe423-59a3-431d-8859-64a1656169bc</orgId>
+		<orgName>WATERFRESH TECΗΝOLOGY ΑΕ</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
@@ -3244,20 +3356,20 @@
 		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
-		<orgId>b19c9c18-c03c-4397-958b-95b8420e34c4</orgId>
-		<orgName>Α ΛΙΑΝΟΣ Α.Ε.</orgName>
+		<orgId>d5a3ce2c-fd45-4c6a-822d-938ed60ad628</orgId>
+		<orgName>ZITA MALL AE</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
 		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
-		<orgId>4e4a09cd-db93-4e59-9dc8-c02d0428b7ab</orgId>
-		<orgName>Α.Ε.Π.Ι Α.Ε.</orgName>
+		<orgId>b19c9c18-c03c-4397-958b-95b8420e34c4</orgId>
+		<orgName>Α ΛΙΑΝΟΣ Α.Ε.</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
-		<paymentOrgIdentificationPAYMENT_CODE>00000000112233445566</paymentOrgIdentificationPAYMENT_CODE>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
 		<orgId>63ae7011-7a6b-4550-809b-21d2fc813070</orgId>
@@ -3488,6 +3600,14 @@
 		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
+		<orgId>192e0281-e4df-41bb-8620-3815d3b769f4</orgId>
+		<orgName>ΑΛΦΑ LAB</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
 		<orgId>96940fcc-7663-4e16-b573-ff1acaab8b5f</orgId>
 		<orgName>ΑΜΕΡΙΚΑΝΙΚΗ ΓΕΩΡΓΙΚΗ ΣΧΟΛΗ</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
@@ -3709,14 +3829,6 @@
 	<payment>
 		<orgId>a094551f-a8ad-4c45-8c9e-00453f0c564c</orgId>
 		<orgName>ΒΙΟΤΕΧΝΙΚΟ ΕΠΙΜΕΛΗΤΗΡΙΟ ΠΕΙΡΑΙΑ</orgName>
-		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
-		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
-		<settlementInfoamount>112233445566.00</settlementInfoamount>
-		<paymentOrgIdentificationPAYMENT_CODE>00000000112233445566</paymentOrgIdentificationPAYMENT_CODE>
-	</payment>
-	<payment>
-		<orgId>7beb5b49-f74f-4144-9772-4f58ec819839</orgId>
-		<orgName>ΒΡ ΕΛΛΗΝΙΚΗ ΑΕ</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
@@ -4128,7 +4240,7 @@
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
-		<paymentOrgIdentificationPAYMENT_CODE>00000000112233445566</paymentOrgIdentificationPAYMENT_CODE>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
 		<orgId>3967d2c8-8e94-4d2a-9744-578f9cfa4bf5</orgId>
@@ -4136,7 +4248,7 @@
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
-		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXT</paymentOrgIdentificationPAYMENT_CODE>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
 		<orgId>0cda5097-1cb2-43fe-9f14-93f5612584f9</orgId>
@@ -4675,6 +4787,14 @@
 		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
+		<orgId>718ad453-2d01-4235-b43e-e76154bc3b37</orgId>
+		<orgName>ΔΑΠΕΕΠ ΠΛΗΡΩΜΗ 5β ν4414/2016</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
 		<orgId>0b1ca31e-b4b5-4c98-965b-040cd20ff883</orgId>
 		<orgName>ΔΕΔΔΗΕ</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
@@ -4728,7 +4848,7 @@
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
-		<paymentOrgIdentificationPAYMENT_CODE>00000000112233445566</paymentOrgIdentificationPAYMENT_CODE>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
 		<orgId>f0a8c769-a156-407c-b4ac-6713bd3efb59</orgId>
@@ -5227,6 +5347,14 @@
 		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
+		<orgId>d46b89aa-b591-4ec6-8899-e9341c009c0e</orgId>
+		<orgName>ΔΗΜΟΣ ΒΕΛΒΕΝΤΟΥ</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
 		<orgId>510aebb1-c8f2-45ef-a62d-c91f45b263c4</orgId>
 		<orgName>ΔΗΜΟΣ ΒΟΛΒΗΣ</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
@@ -5301,6 +5429,14 @@
 	<payment>
 		<orgId>3bfae82e-ee49-48a9-9e6a-ce87747e73d4</orgId>
 		<orgName>ΔΗΜΟΣ ΔΙΡΦΥΩΝ ΜΕΣΣΑΠΙΩΝ</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
+		<orgId>1f8876c0-2e2b-4c30-8066-a1ca2a84348b</orgId>
+		<orgName>ΔΗΜΟΣ ΔΙΣΤΟΜΟΥ ΑΡΑΧΩΒΑΣ ΑΝΤΙΚΥΡΑ</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
@@ -5536,7 +5672,7 @@
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
-		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXT</paymentOrgIdentificationPAYMENT_CODE>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
 		<orgId>317f026b-9209-4fdf-b01d-e0420382b87b</orgId>
@@ -5565,6 +5701,14 @@
 	<payment>
 		<orgId>3b901d8b-fb76-4a1f-98e7-c5cd7cd9617e</orgId>
 		<orgName>ΔΗΜΟΣ ΚΑΒΑΛΑΣ</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
+		<orgId>33418488-fb40-4dfa-9d41-901d269a0972</orgId>
+		<orgName>ΔΗΜΟΣ ΚΑΙΣΑΡΙΑΝΗΣ</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
@@ -5851,6 +5995,14 @@
 		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
+		<orgId>4de40fab-7da7-4db1-ade2-c0f589bbcd92</orgId>
+		<orgName>ΔΗΜΟΣ ΛΥΚΟΒΡΥΣΗΣ ΠΕΥΚΗΣ</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
 		<orgId>5b60f1c8-243f-4180-8c6b-0130572ee4ba</orgId>
 		<orgName>ΔΗΜΟΣ ΜΑΚΡΑΚΩΜΗΣ</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
@@ -6053,6 +6205,14 @@
 	<payment>
 		<orgId>838b2392-28cf-4152-a776-1edaab382589</orgId>
 		<orgName>ΔΗΜΟΣ ΝΟΤΙΟΥ ΠΗΛΙΟΥ</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
+		<orgId>9c90bad0-c1bc-43c1-b556-bd436605b2e5</orgId>
+		<orgName>ΔΗΜΟΣ ΞΑΝΘΗΣ</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
@@ -6289,6 +6449,14 @@
 		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
+		<orgId>d3810202-363b-45a0-a898-ad0f4741c430</orgId>
+		<orgName>ΔΗΜΟΣ ΡΟΔΟΥ</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
 		<orgId>f1b0ffbd-32e4-401a-a61a-19a0b8b47601</orgId>
 		<orgName>ΔΗΜΟΣ ΣΑΡΩΝΙΚΟΥ</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
@@ -6483,6 +6651,14 @@
 	<payment>
 		<orgId>21f1a4fc-c1e7-4abb-82a9-1ab240b9c32f</orgId>
 		<orgName>ΔΗΜΟΣ ΦΙΛΟΘΕΗΣ - ΨΥΧΙΚΟΥ</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
+		<orgId>48baf29d-6b42-4398-9ba9-c51c8fe957f5</orgId>
+		<orgName>ΔΗΜΟΣ ΦΟΛΕΓΑΝΔΡΟΥ</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
@@ -6753,9 +6929,7 @@
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
-		<paymentOrgIdentificationDEBTOR_TAX_ID>233445566</paymentOrgIdentificationDEBTOR_TAX_ID>
-		<paymentOrgIdentificationPAYMENT_CODE>12233445566</paymentOrgIdentificationPAYMENT_CODE>
-		<paymentOrgIdentificationAUX_PAYMENT_CODE>12233445566</paymentOrgIdentificationAUX_PAYMENT_CODE>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
 		<orgId>7a77904b-3ed7-43ee-b35d-72eca6c45143</orgId>
@@ -7144,7 +7318,7 @@
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
-		<paymentOrgIdentificationPAYMENT_CODE>00000000112233445566</paymentOrgIdentificationPAYMENT_CODE>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
 		<orgId>88c19962-d91e-45d1-957a-7031b3a0893d</orgId>
@@ -7209,6 +7383,14 @@
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
 		<paymentOrgIdentificationPAYMENT_CODE>00000000112233445566</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
+		<orgId>bc2dc1fc-4200-475d-926c-43524a744431</orgId>
+		<orgName>ΕΠΙΜΕΛΗΤΗΡΙΟ ΘΕΣΠΡΩΤΙΑΣ</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
 		<orgId>a3e75888-a3c5-4e00-93f6-e2ee06a39333</orgId>
@@ -7304,7 +7486,7 @@
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
-		<paymentOrgIdentificationPAYMENT_CODE>00000000112233445566</paymentOrgIdentificationPAYMENT_CODE>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
 		<orgId>eb10c5ba-cbf7-4a20-b9a2-7e62e4c8edcd</orgId>
@@ -7328,7 +7510,7 @@
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
-		<paymentOrgIdentificationPAYMENT_CODE>0000000000000112233445566</paymentOrgIdentificationPAYMENT_CODE>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
 		<orgId>0d401601-a4cc-47bf-b8e8-a8c12b2b1065</orgId>
@@ -7387,12 +7569,20 @@
 		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
+		<orgId>ab5b7e9b-fe21-475e-b23e-e742d80816be</orgId>
+		<orgName>ΕΣΤΙΑ CITY SERVICES</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
 		<orgId>61255d95-7c75-47f1-a5e7-879d910ccbb7</orgId>
 		<orgName>ΕΤΑΑ ΤΑΝ ΔΗΜΟΣΙΕΥΣΕΙΣ</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
-		<paymentOrgIdentificationPAYMENT_CODE>00000000112233445566</paymentOrgIdentificationPAYMENT_CODE>
+		<paymentOrgIdentificationPAYMENT_CODE>000000000000000000112233445566</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
 		<orgId>6399e142-c52c-42fb-b1c9-52916e14bff1</orgId>
@@ -7456,7 +7646,7 @@
 	</payment>
 	<payment>
 		<orgId>31fc8d8e-5161-44a5-a7e2-e1bd88bd616f</orgId>
-		<orgName>ΕΥΡΩΠΗ Α.Ε.Γ.Α.</orgName>
+		<orgName>ΕΥΡΩΠΗ ΑΣΦΑΛΙΣΤΙΚΗ</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
@@ -7687,6 +7877,14 @@
 		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
+		<orgId>84133cd1-0315-46e8-9644-24cd327ed3b9</orgId>
+		<orgName>ΚΑΡΕΝΤΑ ΑΕ</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
 		<orgId>0e65f4e8-44ad-43e7-a47c-59d0f2f444d6</orgId>
 		<orgName>ΚΑΡΘΑΙΑ Ν.Ε. (GOUTOS LINES)</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
@@ -7873,6 +8071,14 @@
 	<payment>
 		<orgId>c1c74eb7-7ce4-43bc-bf5c-962dcebd91ec</orgId>
 		<orgName>ΛΗΤΩ ΑΕ ΚΛΙΝΙΚΗ</orgName>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
+		<orgId>78c6b00e-01fb-4de0-95a9-2a72d20c8607</orgId>
+		<orgName>ΛΙΑΓΚΟΣ ΑΘΑΝΑΣΙΟΣ</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
 		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
@@ -8121,6 +8327,14 @@
 		<paymentOrgIdentificationAUX_PAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLETEXT</paymentOrgIdentificationAUX_PAYMENT_CODE>
 	</payment>
 	<payment>
+		<orgId>e1da1803-5a4b-4cab-9a1c-3ff6b42b6d29</orgId>
+		<orgName>ΜΥΛΟΙ ΑΓΙΑΣ ΜΑΡΙΝΑΣ</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
 		<orgId>a4852315-5574-4013-a138-f77224f2d4d0</orgId>
 		<orgName>ΜΥΛΟΙ ΚΕΠΕΝΟΥ ΑΒΕΕ</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
@@ -8167,6 +8381,14 @@
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
 		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXT</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
+		<orgId>57aa5b63-9604-4090-92b0-81a9d9ca6b7f</orgId>
+		<orgName>ΝΙΚΑΡΤΕ Μ.Ι.Κ.Ε.</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
 		<orgId>02b173de-7118-4cab-8f6c-7e84c4e19499</orgId>
@@ -8248,6 +8470,14 @@
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
 		<paymentOrgIdentificationPAYMENT_CODE>000000000000000000112233445566</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
+		<orgId>773826d0-53fb-4f2c-b8b1-bf4be85e7aa3</orgId>
+		<orgName>ΟΔΙΚΕΣ ΣΥΓΚΟΙΝΩΝΙΕΣ Α.Ε.</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
 		<orgId>d84af6e8-6f35-4f50-abbc-10b954e3a8e0</orgId>
@@ -8493,6 +8723,14 @@
 	<payment>
 		<orgId>b526fd52-36a0-4676-bb24-af9ec1855826</orgId>
 		<orgName>ΠΗΓΑΣΟΣ Α.Ε. ΖΑΧΑΡΩΔΗ-ΤΡΟΦΙΜΑ</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
+		<orgId>bc4c523a-b0da-4b92-bc81-b6c0f2b80463</orgId>
+		<orgName>ΠΗΓΕΣ ΚΩΣΤΗΛΑΤΑΣ Α.Ε.</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
@@ -9174,6 +9412,14 @@
 		<paymentOrgIdentificationPAYMENT_CODE>00000000112233445566</paymentOrgIdentificationPAYMENT_CODE>
 	</payment>
 	<payment>
+		<orgId>e0ad5ac0-2d3f-4729-93a6-e0070b55217a</orgId>
+		<orgName>ΦΕΣΤΙΒΑΛ ΤΑΙΝΙΩΝ ΜΙΚΡ ΜΗΚ ΔΡΑΜΑΣ</orgName>
+		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
+		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
+		<settlementInfoamount>112233445566.00</settlementInfoamount>
+		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
+	</payment>
+	<payment>
 		<orgId>a6735a7c-6684-48de-805d-8d4d1f0dc066</orgId>
 		<orgName>ΦΙΛΙΠΠΟΣ ΝΑΚΑΣ</orgName>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
@@ -9191,14 +9437,6 @@
 	<payment>
 		<orgId>cd89270b-37af-4c37-9fa8-2c144a4e7592</orgId>
 		<orgName>ΦΟΡΤΙΣ ΕΜΠΟΡΙΚΗ ΑΕ</orgName>
-		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
-		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
-		<settlementInfoamount>112233445566.00</settlementInfoamount>
-		<paymentOrgIdentificationPAYMENT_CODE>SAMPLETEXTSAMPLETEXTSAMPL</paymentOrgIdentificationPAYMENT_CODE>
-	</payment>
-	<payment>
-		<orgId>9fbb122d-cf0e-4a7a-9f35-6b32e23580a1</orgId>
-		<orgName>ΦΥΣΙΚΟ ΑΕΡΙΟ ΕΕΕ (Smarthink)</orgName>
 		<paymentIdentificationinstrId>SAMPLETEXTSAMPLETEXTSAMPLETEXTSAMPLE</paymentIdentificationinstrId>
 		<settlementInfomethod>SAMPLETEXT</settlementInfomethod>
 		<settlementInfoamount>112233445566.00</settlementInfoamount>
