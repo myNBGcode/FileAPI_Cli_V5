@@ -14,6 +14,6 @@ Specific **examples** of the various functions of File CLI can be found below:
 
 For a Quick Start on FileAPI_CLI jump to our [QuickGuide](https://github.com/myNBGcode/FileAPI_Cli_V4_1/blob/main/QuickGuide.txt) file.
 
-Finally, the [source code](https://github.com/myNBGcode/FileAPI_Cli_V4_1/tree/main/source_202012) is also available as a sample to integrate it to your application.
+Finally, the [source code] is also available in agreement with us as a sample to integrate it to your application.
 
 If you have any questions or concerns, please contact us through [developer.nbg.gr](https://developer.nbg.gr/).
